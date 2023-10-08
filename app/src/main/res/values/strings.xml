@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="button_A">Pressed: A</string>
+    <string name="button_B">Pressed: B</string>
+    <string name="button_C">Pressed: C</string>
+    <string name="button_D">Pressed: D</string>
+    <string name="button_E">Pressed: E</string>
+    <string name="button_F">Pressed: F</string>
+    <string name="pressedOrigin">Pressed: -</string>
+    <string name="desc">floatingButton</string>
+    <string name="Http">http://</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Add">Add</string>
+    <string name="link_add_success">Link added successfully</string>
+    <string name="link_invalid">Invalid url. Please provide a valid url.</string>
+    <string name="link_name">Name:</string>
+    <string name="link_url">Url:</string>
+    <string name="link_details">Enter Link Details</string>
+</resources>
